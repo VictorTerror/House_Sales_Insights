@@ -19,7 +19,10 @@ Portanto, o trabalho dos Data Scientist é responder as seguinte perguntas:
 * Uma vez o imóvel em posse da empresa, qual o melhor momento para vendê-los e qual seria o preço da venda?
 * A House Mart deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 
+## **2. Business Assumptions**
 
+* All properties are houses.
+* 
 
 
 
