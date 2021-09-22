@@ -21,8 +21,9 @@ A principal estratégia é comprar boas casas em ótimas localizações com pre�
 ## **2. Business Assumptions**
 
 * Todos os imóveis são casas
-* 
+
+* Os imóveis estão disponíveis para venda na data correspondente
 
 
-
+## **3. Solution Strategy**
 
