@@ -20,10 +20,16 @@ A principal estratégia é comprar boas casas em ótimas localizações com pre�
 
 ## **2. Business Assumptions**
 
-* Todos os imóveis são casas
+* Todos os imóveis são casas.
 
-* Os imóveis estão disponíveis para venda na data correspondente
+* Os imóveis estão disponíveis para venda nas respectivas datas.
 
 
 ## **3. Solution Strategy**
+Minha estratégia para resolver esse desafio foi:
 
+* 1°. Data Description: 
+* 2°. Feature Engineering:
+* 3°. Data Filtering:
+* 4°. Exploratory Data Analysis:
+* 5°. Data Preparation:
