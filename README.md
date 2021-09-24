@@ -33,3 +33,6 @@ Minha estratégia para resolver esse desafio foi:
 * 3°. Data Filtering:
 * 4°. Exploratory Data Analysis:
 * 5°. Data Preparation:
+
+
+## **4. Top 3 Data Insights**
