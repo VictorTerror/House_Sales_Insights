@@ -3,6 +3,7 @@
 ![alt text](https://48h57c2l31ua3c3fmq1ne58b-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Bellevue-and-Cascades-King-County-768x402.jpeg)
 
 
+
 ## **1. Business Problem**
 
 A House Mart é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis.
@@ -18,6 +19,7 @@ A principal estratégia é comprar boas casas em ótimas localizações com pre�
 * A House Mart deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças?
 
 
+
 ## **2. Business Assumptions**
 
 * Todos os imóveis são casas.
@@ -25,14 +27,23 @@ A principal estratégia é comprar boas casas em ótimas localizações com pre�
 * Os imóveis estão disponíveis para venda nas respectivas datas.
 
 
+
 ## **3. Solution Strategy**
 Minha estratégia para resolver esse desafio foi:
 
-* 1°. Data Description: 
-* 2°. Feature Engineering:
-* 3°. Data Filtering:
-* 4°. Exploratory Data Analysis:
-* 5°. Data Preparation:
+* 1°. Data Description
+* 2°. Feature Engineering
+* 3°. Exploratory Data Analysis
+* 4°. Business Solution
+
 
 
 ## **4. Top 3 Data Insights**
+
+**Hipótese 01:** Imóveis com vista para a água custam aproximadamente 50% a mais.<br/>
+**Falso** Imóveis com vista para aguá custam em média 300% a mais.<br/>
+**Insight:** Os elevados valores de aquisição e venda desses imóveis não os tornam tão atrativos, já que podem ficar em posse da empresa por um período muito longo.<br/>
+<br/>
+**Hipótese 02:** .<br/>
+**Falso** .<br/>
+**Insight:** <br/>
