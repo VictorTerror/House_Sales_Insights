@@ -54,8 +54,8 @@ Minha estratégia para resolver esse desafio foi:
 
 
 
-## **5. Conclusão**
+## **5. Conclusion**
 
 
 
-## **6. Próximos Passos**
+## **6. Next Steps**
