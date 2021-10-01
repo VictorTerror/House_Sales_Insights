@@ -44,6 +44,18 @@ Minha estratégia para resolver esse desafio foi:
 **Falso** Imóveis com vista para aguá custam em média 300% a mais.<br/>
 **Insight:** Os elevados valores de aquisição e venda desses imóveis não os tornam tão atrativos, já que podem ficar em posse da empresa por um período muito longo.<br/>
 <br/>
-**Hipótese 02:** .<br/>
-**Falso** .<br/>
-**Insight:** <br/>
+**Hipótese 02:** Imóveis construidos nos últimos anos deveriam estar em melhores condições.<br/>
+**Falso** Imóveis contruídos nos ultimos 25 anos estão em condições inferiores.<br/>
+**Insight:** Esses imóveis são promissores para serem adquiridos a preços inferiores e posteriormente reformados, melhorando sua condição e agregando o valor da reforma.<br/>
+
+**Hipótese 03:** O preço médio dos imóveis é maior no verão.<br/>
+**Falso** O preço médio dos imóveis é maior na primavera.<br/>
+**Insight:** Os imóveis adquiridos devem ser preferencialmente vendidos na primavera, onde o valor médio é superior à outras estações.
+
+
+
+## **5. Conclusão**
+
+
+
+## **6. Próximos Passos**
