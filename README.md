@@ -50,6 +50,7 @@ Minha estratégia para resolver esse desafio foi:
 **Falso** O preço médio dos imóveis é maior na primavera.<br/>
 **Insight:** Os imóveis adquiridos devem ser preferencialmente vendidos na primavera, onde o valor médio é superior à outras estações.
 
+### **Dashboard**: https://analytics-house-rocket-vgt.herokuapp.com/<br/>
 
 
 ## **5. Conclusion**
