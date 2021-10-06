@@ -1,8 +1,6 @@
 # House Sales Insights
 
-![alt text](https://48h57c2l31ua3c3fmq1ne58b-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Bellevue-and-Cascades-King-County-768x402.jpeg)
-
-
+![alt text](https://github.com/VictorTerror/House_Sales_Insights/blob/main/image/image.jpeg?raw=True)
 
 ## **1. Business Problem**
 
