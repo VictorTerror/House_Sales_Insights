@@ -56,8 +56,10 @@ https://analytics-house-rocket-vgt.herokuapp.com/<br/>
 
 
 ## **6. Conclusion**
-Apesar de não utilizar técnicas de Machine Learning, fui capaz de gerar insights valiosos e acionaveis para a empresa, permitindo um aumentos significativo na receita e deixando claro que uma analise exploratória bem realizada é muito eficaz, afinal ML é apenas mais uma ferramenta para o cientista de dados e deve ser utilizada quando necessário.
+Apesar de não utilizar técnicas de Machine Learning, é possível concluir que uma análie exploratória bem desenvolvida é capaz de gerar insights acionáveis e gerar grandes mudanças nas estratégias de negócio. A EDA permitiu um aumento na receita e diminuiu o risco da empresa em relação a aquisição de imóveis de baixa liquidez, permitindo que a empresa invista seus recursos em imóveis mais rentáveis.
 
 
 ## **7. Next Steps**
+1- Iniciar um novo ciclo para analisar o problema buscando abordagens diferentes, tendo como foco a grande quantidade de outliers.<br/>
+2- Aprofundar a análise para determinar que tipo de reformas seriam mais vantajosas
 
