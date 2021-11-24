@@ -60,6 +60,7 @@ Apesar de não utilizar técnicas de Machine Learning, é possível concluir que
 
 
 ## **7. Next Steps**
-1- Iniciar um novo ciclo para analisar o problema buscando abordagens diferentes, tendo como foco a grande quantidade de outliers.<br/>
-2- Aprofundar a análise para determinar que tipo de reformas seriam mais vantajosas
+* Iniciar um novo ciclo para analisar o problema buscando abordagens diferentes, tendo como foco a grande quantidade de outliers.
+
+* Aprofundar a análise para determinar que tipo de reformas seriam mais vantajosas.
 
